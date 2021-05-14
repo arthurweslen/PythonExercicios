@@ -1,4 +1,4 @@
-# Python Scripts
+# Python - Questões
 
 
 <b>001)</b> Faça um programa que peça para o usuário digitar um número, e mostre o número digitado, o número anterior e o número posterior.<br>
