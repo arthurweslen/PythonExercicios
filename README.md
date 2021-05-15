@@ -9,6 +9,7 @@
 <b>006)</b> Faça um programa que receba o valor celular e mostre o valor de 5%, 10% e 20% de desconto.<br>
 <b>007)</b> Faça um programa que receba o valor e diz se é par ou ímpar.<br>
 <b>008)</b> Gerar número randômico e mostrar raiz quadrada, raiz arredondada para cima e para baixo.<br>
+<b>008)</b> Leia um número decimal e exiba o valor inteiro.<br>
 
 ![png-clipart-apprenticeship-software-developer-computer-software-training-information-technology-software-developers-logo-grass](https://user-images.githubusercontent.com/22967736/117756689-055cbe00-b1f5-11eb-86ed-88e5faf7ed21.png)
 
