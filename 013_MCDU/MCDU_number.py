@@ -6,7 +6,7 @@ num = input('Digite um número de número qualquer: ')
 mcdu = str(num)
 
 while not num.isnumeric() or int(num) >=10000 or int(num) < 0:
-    num = input('Digite um número de número de 0 a 9999: ')
+    num = input('Digite um número de 0 a 9999: ')
     mcdu = str(num)
 
 print('='*28)
