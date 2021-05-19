@@ -2,7 +2,7 @@ print('='*28)
 print(f'\033[1:7m{"MCDU":=^28}\033[m')
 print('='*28)
 
-num = input('Digite um número de número qualquer: ')
+num = input('Digite um número de número qualquer: ').strip()
 mcdu = str(num)
 
 while not num.isnumeric() or int(num) >=10000 or int(num) < 0:
