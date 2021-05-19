@@ -14,6 +14,8 @@
 <b>011)</b> Faça uma lista de nomes e faça um sorteio de presentes.<br>
 <b>012)</b> Crie uma variável com algum texto e manipule esse texto.<br>
 <b>013)</b> Leia um número de 0 a 9999 e diga qual número é o Milhar, Centena, Dezena e Unidade (MCDU).<br>
+<b>014)</b> Faça um programa que receba o valor de renda familiar e mostre em qual grupo de renda.<br>
+
 
 
 ![png-clipart-apprenticeship-software-developer-computer-software-training-information-technology-software-developers-logo-grass](https://user-images.githubusercontent.com/22967736/117756689-055cbe00-b1f5-11eb-86ed-88e5faf7ed21.png)
