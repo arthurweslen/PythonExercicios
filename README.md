@@ -1,6 +1,6 @@
 # Python - Questões
 
-
+<h6>
 <b>001)</b> Receba um número, e mostre o número digitado, o número anterior e o número posterior.<br>
 <b>002)</b> Faça um programa que mostre o código das cores e formatação da fonte com a cor e fonte correspondente.<br>
 <b>003)</b> Faça um programa que receba dois números, e o programa executa as operações básicas.<br>
@@ -17,6 +17,7 @@
 <b>014)</b> Faça um programa que receba o valor de renda familiar e mostre em qual grupo de renda.<br>
 <b>015)</b> Faça um programa que faça um sorteio de um presente entre 10 funcionários de uma empresa .<br>
 <b>016)</b> Receba o valor do imóvel, salario do comprador e número de parcelas, e diz se será aprovado o empréstimo (parcela 30% do salário) .<br>
+  </h6>
 
 
 
