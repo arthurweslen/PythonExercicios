@@ -15,6 +15,7 @@
 <b>012)</b> Crie uma variável com algum texto e manipule esse texto.<br>
 <b>013)</b> Leia um número de 0 a 9999 e diga qual número é o Milhar, Centena, Dezena e Unidade (MCDU).<br>
 <b>014)</b> Faça um programa que receba o valor de renda familiar e mostre em qual grupo de renda.<br>
+<b>015)</b> Faça um programa que faça um sorteio de um presente entre 10 funcionários de uma empresa .<br>
 
 
 
