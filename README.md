@@ -16,6 +16,7 @@
 <b>013)</b> Leia um número de 0 a 9999 e diga qual número é o Milhar, Centena, Dezena e Unidade (MCDU).<br>
 <b>014)</b> Faça um programa que receba o valor de renda familiar e mostre em qual grupo de renda.<br>
 <b>015)</b> Faça um programa que faça um sorteio de um presente entre 10 funcionários de uma empresa .<br>
+<b>016)</b> Receba o valor do imóvel, salario do comprador e número de parcelas, e diz se será aprovado o empréstimo (parcela 30% do salário) .<br>
 
 
 
