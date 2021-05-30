@@ -22,6 +22,7 @@
 <b>019)</b> Um programa que exiba os pares, ímpares ou todos de 1 a 20, conforme o usuário solicitar.<br>
 <b>020)</b> Crie um formulário que receba o nome, sexo, qual plataforma prefere jogar e confirme os dados.<br>
 <b>021)</b> **ADIVINHE**. Crie um jogo que o usuário tenha que adivinhar um número de 0 a 10.<br>
+<b>022)</b> Crie uma calculadora com MENU de operações ou se deseja sair<br>
 
 
 
