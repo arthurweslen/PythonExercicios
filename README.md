@@ -18,7 +18,7 @@
 <b>015)</b> Faça um programa que faça um sorteio de um presente entre 10 funcionários de uma empresa .<br>
 <b>016)</b> Receba o valor do imóvel, salário, e o nº de parcelas, e diz se será aprovado o empréstimo (parcela 30% do salário) .<br>
 <b>017)</b> Crie o jogo JOKENPO, onde o usuário joga com o computador.<br>
- 
+<b>018)</b> Faça uma contagem regressiva para o ano novo,  e a contagem apareça com tempo de 1 segundo.<br>
 
 
 
