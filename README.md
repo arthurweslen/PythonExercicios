@@ -17,10 +17,11 @@
 <b>014)</b> Faça um programa que receba o valor de renda familiar e mostre em qual grupo de renda.<br>
 <b>015)</b> Faça um programa que faça um sorteio de um presente entre 10 funcionários de uma empresa .<br>
 <b>016)</b> Receba o valor do imóvel, salário, e o nº de parcelas, e diz se será aprovado o empréstimo (parcela 30% do salário) .<br>
-<b>017)</b> Crie o jogo JOKENPO, onde o usuário joga com o computador.<br>
+<b>017)</b> **JOKENPO**, crie um jogo onde o usuário joga com o computador.<br>
 <b>018)</b> Faça uma contagem regressiva para o ano novo,  e a contagem apareça com tempo de 1 segundo.<br>
 <b>019)</b> Um programa que exiba os pares, ímpares ou todos de 1 a 20, conforme o usuário solicitar.<br>
 <b>020)</b> Crie um formulário que receba o nome, sexo, qual plataforma prefere jogar e confirme os dados.<br>
+<b>021)</b> **ADIVINHE**. Crie um jogo que o usuário tenha que adivinhar um número de 0 a 10.<br>
 
 
 
