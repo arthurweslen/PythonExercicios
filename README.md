@@ -20,6 +20,7 @@
 <b>017)</b> Crie o jogo JOKENPO, onde o usuário joga com o computador.<br>
 <b>018)</b> Faça uma contagem regressiva para o ano novo,  e a contagem apareça com tempo de 1 segundo.<br>
 <b>019)</b> Um programa que exiba os pares, ímpares ou todos de 1 a 20, conforme o usuário solicitar.<br>
+<b>020)</b> Crie um formulário que receba o nome, sexo, qual plataforma prefere jogar e confirme os dados.<br>
 
 
 
