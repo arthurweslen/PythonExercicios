@@ -23,6 +23,7 @@
 <b>020)</b> Crie um formulário que receba o nome, sexo, qual plataforma prefere jogar e confirme os dados.<br>
 <b>021)</b> **ADIVINHE**. Crie um jogo que o usuário tenha que adivinhar um número de 0 a 10.<br>
 <b>022)</b> Crie uma calculadora com MENU de operações ou se deseja sair<br>
+<b>023)</b> Crie um programa que verifique o IP ou Host que o usuário digitar, e peça para o usuário quantas vezes enviará o pacote<br>
 
 
 
