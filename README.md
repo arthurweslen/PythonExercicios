@@ -26,6 +26,7 @@
 <b>023)</b> Crie um programa que verifique o IP ou Host que o usuário digitar, e peça para o usuário quantas vezes enviará o pacote<br>
 <b>024)</b> Crie um programa que verifique todos os Host's ou IP's dentro de um documento .txt<br>
 <b>025)</b> Crie um programa que gera senha (simples, comum ou forte) de acordo com a necessidade do usuário<br>
+<b>025)</b> **PAR OU ÍMPAR**. Crie um jogo que usuário jogue par ou ímpar com o computador e mostre quantas vezes ele venceu<br>
 
 
 
