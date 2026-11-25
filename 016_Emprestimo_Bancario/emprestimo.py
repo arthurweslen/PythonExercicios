@@ -13,7 +13,7 @@ while not salario.isnumeric():
     salario = input('Digite o Valor do seu Salário(R$): ')
 
 parcela = input('Será didivido em quantas parcelas : ')
-while not parcela.isnumeric():
+while not parcela.isdecimal() or int(parcela) < 1:
     parcela = input('Será didivido em quantas parcelas : ')
 
 prestacao = float(imovel)/int(parcela)
